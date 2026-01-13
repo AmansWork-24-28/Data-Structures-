@@ -5,7 +5,7 @@ int main() {
 Application: When playing card games, players often use an approach similar to insertion sort to organize their cards. They pick one card at a time and insert it into the correct position in their hand, maintaining a sorted sequence. Write a program that demonstrates how to organize (sort) cards in a hand using insertion sort */
 int i,j;
 int temp;
-int n,a,b;
+int n,a,b,k;
 cout<<"Consider A=1 ,K=13 ,Q=12 ,J=11"<<endl;
 cout<<"\n";
 cout << "No. of cards in your hand : ";
